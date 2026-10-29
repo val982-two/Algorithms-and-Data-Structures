@@ -1,9 +1,3 @@
-# Algorithms-and-Data-Structures
+# Курсовая работа находится по ссылке снизу!!!
 
-[Тема 1. Сортировки](./Sort) - [Условия](./Sort/README.md)
-
-[Тема 2. Бинарный поиск](./binary_search) - [Условия](./binary_search/README.md)
-
-[Тема 3. Контейнеры](./containers) - [Условия](./containers/README.md)
-
-[Тема 4. Куча](./heap) - [Условия](./heap/README.md)
+[ССЫЛКА НА КУРСОВУЮ](https://github.com/averin0911-hub/ProjectLabyrinth.git)
