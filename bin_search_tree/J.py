@@ -259,7 +259,7 @@ class BinarySearchTree:
 
     def element_frequency(self):
         res = []
-        stack = []
+        stack = deque()
         current = self.root
 
         while current is not None or len(stack) > 0:
